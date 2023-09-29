@@ -12,6 +12,7 @@ This is a full-stack banking application built using the MERN (MongoDB, Express.
 - [Usage](#usage)
   - [Authentication](#authentication)
   - [API Endpoints](#api-endpoints)
+- [Deployment](#deployment)    
 
 ## Features
 
@@ -95,5 +96,8 @@ Before you start, ensure you have the following prerequisites installed:
 - **Transfer**: POST `/api/transactions/transfer`
 
 You can find more details about these endpoints and their usage in the backend code.
+
+## Deployment
+The application is deployed and accessible at (https://banking-application-mern-kavinesh.netlify.app/)
 
 
