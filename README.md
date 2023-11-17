@@ -2,7 +2,7 @@
 
 This is a full-stack banking application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, enhanced with JWT (JSON Web Token) authorization for secure user access. This application allows users to manage their bank accounts, make transactions, view transaction history, and more.
 
-![Application Screenshot](/path/to/screenshot.png)
+
 
 ## Table of Contents
 
